@@ -1,0 +1,5 @@
+[[redirects]]
+  from="/*"
+  to = "http://005290.xyz:81/:splat"
+  status = 200
+  force = true
